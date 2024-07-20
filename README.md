@@ -27,6 +27,11 @@ Follow these instructions to set up the project on your local machine.
 - Node.js and npm installed on your machine.
 
 ### Installation
+**Clone the repository**:
+
+   ```bash
+   git clone https://github.com/AfeeqaMuzammil/react-redux-TODO-app.git
+   cd react-redux-TODO-app
 
 1. **Clone the repository**:
 
