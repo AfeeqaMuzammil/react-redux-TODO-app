@@ -1,5 +1,5 @@
 # Personal Todo App 
-![Home Page](path/to/screenshot2.png)
+![Home Page](todo.png)
 
 ## Overview
 
