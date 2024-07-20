@@ -1,5 +1,5 @@
 # Personal Todo App 
-
+![Home Page](path/to/screenshot2.png)
 
 ## Overview
 
@@ -32,6 +32,6 @@ Follow these instructions to set up the project on your local machine.
    ```bash
    git clone https://github.com/AfeeqaMuzammil/react-redux-TODO-app.git
    cd react-redux-TODO-app
-
-
+   npm install
+   npm start
 
